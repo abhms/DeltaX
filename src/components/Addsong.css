@@ -1,0 +1,90 @@
+.addsong{
+    position: absolute;
+    right: 120px;
+    top:70px;
+    justify-content: center;
+}
+
+.song{
+    position: absolute;
+    left:120px;
+    top:70px;
+}
+
+.data{
+    position: absolute;
+    padding-left: 38rem;
+     margin-right: 20px; 
+    align-items: center;
+}
+
+.sn{
+    padding-top: 20px;
+    margin-right: 20px; 
+}
+
+.drop{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.dor{
+    padding-top: 20px;
+    margin-right: 20px; 
+}
+
+.input-group{
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.addartist{
+    position: absolute;
+    /* top: 8rem; */
+    right: 4rem;
+}
+
+.button{
+    padding-top: 20px;
+    margin-right: 20px;
+}
+.submit{
+    position: absolute;
+    right: 10rem;
+}
+
+.popup{
+    height: 400px;
+    width: 50%;
+    background-color: #f5f5f5;
+    position: absolute;
+    top: 25%;
+    right: 25%;
+    justify-content: center;
+}
+.popup-header{
+    display: flex;
+    justify-content: space-between;
+    position: 0 30px 0 15px;
+    border-bottom: 2px solid black;
+}
+.popdatet{
+    position: absolute;
+    padding-top: 20px;
+    padding-bottom: 20px;;
+}
+.s{
+    position: absolute;
+    right: 10rem;
+    
+}
+
+.c{
+    position: absolute;
+    right: 20rem;
+    
+}
+
+.popbutton{
+    padding-top: 20px;
+}

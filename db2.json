@@ -1,0 +1,16 @@
+{
+  "artist": [
+    {
+      "artistname": "shreya ghosal",
+      "ArtistDOB": "Mar 12, 1984",
+      "bio": " Place of Birth: Durgapur, West Bengal, India",
+      "id": 1
+    },
+    {
+      "artistname": "Alka Yagnik",
+      "ArtistDOB": "Mar 20, 1966",
+      "bio": "Place of Birth: Kolkata, West Bengal, India",
+      "id": 2
+    }
+  ]
+}
